@@ -1,0 +1,14 @@
+{
+    "name": "@dashdot/eslint",
+    "version": "0.1.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "peerDependencies": {
+        "eslint": ">= 7",
+        "eslint-config-airbnb-base": ">= 14",
+        "eslint-plugin-import": ">= 2",
+        "eslint-plugin-jest": ">= 24"
+    }
+}

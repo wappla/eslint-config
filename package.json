@@ -1,0 +1,11 @@
+{
+    "name": "@dashdot/eslint-mono",
+    "version": "0.1.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "devDependencies": {
+        "lerna": "^4.0.0"
+    }
+}
