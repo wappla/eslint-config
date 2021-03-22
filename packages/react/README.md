@@ -5,5 +5,5 @@ The react ESLint configuration files for Dashdot.
 ## Installation
 
 ```sh
-npx install-peerdeps --dev @dashdot/eslint-config-base
+npx install-peerdeps --dev @dashdot/eslint-config-react
 ```
