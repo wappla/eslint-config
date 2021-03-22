@@ -1,5 +1,5 @@
 {
-    "name": "@dashdot/eslint-react",
+    "name": "@dashdot/eslint-config-react",
     "version": "0.1.1",
     "main": "index.js",
     "scripts": {
