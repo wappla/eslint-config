@@ -2,6 +2,7 @@
     "name": "@dashdot/eslint-config-base",
     "version": "0.1.1",
     "main": "index.js",
+    "description": "The base ESLint configuration files for Dashdot.",
     "scripts": {
         "test": "node index.js"
     },

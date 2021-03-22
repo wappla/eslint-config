@@ -1,13 +1,9 @@
 # Dashdot ESLint Base
 
+The react ESLint configuration files for Dashdot.
+
 ## Installation
 
 ```sh
-npm i --dev @dashdot/eslint-react
-```
-
-Make sure to install all the peer dependencies
-
-```sh
-npx install-peerdeps --dev @dashdot/eslint-react
+npx install-peerdeps --dev @dashdot/eslint-config-base
 ```

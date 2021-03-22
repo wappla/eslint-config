@@ -1,13 +1,9 @@
 # Dashdot ESLint Base
 
+The base ESLint configuration files for Dashdot.
+
 ## Installation
 
 ```sh
-npm i --dev @dashdot/eslint
-```
-
-Make sure to install all the peer dependencies
-
-```sh
-npx install-peerdeps --dev @dashdot/eslint
+npx install-peerdeps --dev @dashdot/eslint-config-base
 ```
