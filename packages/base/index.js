@@ -14,5 +14,8 @@ module.exports = {
         'comma-dangle': 'off',
         'no-underscore-dangle': 'off',
         'import/no-extraneous-dependencies': 'off',
+    },
+    "parserOptions": {
+        "ecmaVersion": 2021
     }
 }

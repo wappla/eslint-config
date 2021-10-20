@@ -20,5 +20,8 @@ module.exports = {
         'react/jsx-props-no-spreading': 'off',
         'react/jsx-one-expression-per-line': 'off',
         'react/prop-types': 'off'
+    },
+    "parserOptions": {
+        "ecmaVersion": 2021
     }
 }
