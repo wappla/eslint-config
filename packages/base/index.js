@@ -16,6 +16,6 @@ module.exports = {
         'import/no-extraneous-dependencies': 'off',
     },
     "parserOptions": {
-        "ecmaVersion": 2021
+        "ecmaVersion": 2022
     }
 }

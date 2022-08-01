@@ -22,6 +22,6 @@ module.exports = {
         'react/prop-types': 'off'
     },
     "parserOptions": {
-        "ecmaVersion": 2021
+        "ecmaVersion": 2022
     }
 }
