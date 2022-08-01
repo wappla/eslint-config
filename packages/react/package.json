@@ -1,6 +1,6 @@
 {
     "name": "@dashdot/eslint-config-react",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "main": "index.js",
     "description": "The react ESLint configuration files for Dashdot.",
     "scripts": {

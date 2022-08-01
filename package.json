@@ -1,6 +1,6 @@
 {
     "name": "@dashdot/eslint-config",
-    "version": "0.0.1",
+    "version": "0.4.0",
     "main": "index.js",
     "scripts": {
         "test": "node index.js"
